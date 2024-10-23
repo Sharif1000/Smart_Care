@@ -1,5 +1,5 @@
 """
-WSGI config for smart_care project.
+dfasdfWSGI config for smart_care project.
 
 It exposes the WSGI callable as a module-level variable named ``application``.
 
